@@ -6,6 +6,7 @@ function App() {
     <div className="container">
       <div className='main-image'>Image</div>
       <div className='sidebar'></div>
+      
       <Slider/>
     </div>
   );
